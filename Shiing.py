@@ -1,5 +1,5 @@
 #MODDED SKIER PROGRAM
-
+#DONE BY ELIOT TROOP
 """
 Mod 1: Added a large repository of background music
 Mod 2: Added acceleration and deceleration.
